@@ -1,0 +1,17 @@
+{
+  "id": "./",
+  "name": "Mandarin Master – Học tiếng Trung",
+  "short_name": "Mandarin",
+  "description": "Học tiếng Trung với flashcard, trắc nghiệm và luyện nghe.",
+  "lang": "vi",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f7f4f0",
+  "theme_color": "#b83e35",
+  "icons": [
+    {"src": "./icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "./icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"}
+  ]
+}
